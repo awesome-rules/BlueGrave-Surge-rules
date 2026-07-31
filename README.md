@@ -8,6 +8,7 @@
 自用的特殊规则
 - [AppleOS_Update.list](https://github.com/BlueGrave/Surge/blob/master/Ruleset/AppleOS_Update.list) 结合多个大佬的相关规则整理出来的各 Apple OS OTA 规则
 - [Mail.list](https://github.com/BlueGrave/Surge/blob/master/Ruleset/Mail.list) 解决 iOS Mail App 收件问题
+- [AI.list](https://github.com/BlueGrave/Surge/blob/master/Ruleset/AI.list) 结合多个大佬的 AI 访问规则
 
 ### 模块文件
 - [MyMoneyPro.sgmodule](https://github.com/BlueGrave/Surge/blob/master/Module/MyMoneyPro.sgmodule) 屏蔽随手记专业版 App 开屏广告
